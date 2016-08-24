@@ -1,0 +1,4 @@
+---
+# defaults file for rails-monit
+app_name: demo
+monit_time: 60
